@@ -1,18 +1,18 @@
 The data files include:
 􏰲 
-Author
-􏰲 Title
-􏰲 Title_Series
-􏰲 Reviews
-􏰲 Title_Awards
-􏰲 Publication
-􏰲 Publication_Authors 􏰲 Publication_Content 􏰲 Publication_Series
-􏰲 Publisher
-􏰲 Awards
-􏰲 Award_Categories
-􏰲 Award_Types
-􏰲 Notes
-􏰲 Languages
-􏰲 Tags
-􏰲 Title_Tags
-􏰲 Webpages
+ * Author
+􏰲 * Title
+􏰲 * Title_Series
+􏰲 * Reviews
+􏰲 * Title_Awards
+􏰲 * Publication
+􏰲 * Publication_Authors 􏰲 Publication_Content 􏰲 Publication_Series
+􏰲 * Publisher
+􏰲 * Awards
+􏰲 * Award_Categories
+􏰲 * Award_Types
+􏰲 * Notes
+􏰲 * Languages
+􏰲 * Tags
+􏰲 * Title_Tags
+􏰲 * Webpages
